@@ -14,10 +14,14 @@ import edu.dixietech.ethanthomas1906.stundent.video.aboutme.databinding.Activity
 class MainActivity : AppCompatActivity() {
 
     private  lateinit var bindling: ActivityMainBinding
+
+    private val myName: MyName = MyName("Ethan Thomas")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 //        setContentView(R.layout.activity_main)
         bindling = DataBindingUtil.setContentView(this, R.layout.activity_main)
+
+        bindling.myName = myName
 
 //        findViewById<Button>(R.id.done_button).setOnClickListener {
 //            addNickname(it)
@@ -29,7 +33,9 @@ class MainActivity : AppCompatActivity() {
 
     private fun addNickname(view: View) {
 
-        bindling.apply {   bindling.nicknameText.text = bindling.nicknameEdit.text
+        bindling.apply {
+//            bindling.nicknameText.text = bindling.nicknameEdit.text
+            myName?.nickname = nicknameEdit.text.toString()
             invalidateAll()
             bindling.nicknameEdit.visibility = View.GONE
             bindling.doneButton.visibility = View.GONE
