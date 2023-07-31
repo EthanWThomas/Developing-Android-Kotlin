@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "edu.dixietech.ethanthomas1906.stundent.video.colormyviews",
+  "variantName": "debug",
+  "elements": []
+}
