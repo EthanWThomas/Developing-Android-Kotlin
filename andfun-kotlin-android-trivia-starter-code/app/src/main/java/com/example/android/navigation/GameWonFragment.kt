@@ -41,9 +41,7 @@ class GameWonFragment : Fragment() {
         binding.nextMatchButton.setOnClickListener { view: View ->
             view.findNavController().navigate(GameFragmentDirections.actionGameFragmentToGameOverFragment2())
         }
-//        Toast.makeText(context,
-//        "NumCorrect: ${args.numCorrect}, NumQuestion: ${args.numQuestion}",
-//        Toast.LENGTH_LONG).show()
+
         setHasOptionsMenu(true)
         return binding.root
     }
