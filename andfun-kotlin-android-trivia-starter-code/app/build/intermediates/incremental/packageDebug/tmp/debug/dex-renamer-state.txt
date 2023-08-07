@@ -1,0 +1,4 @@
+#Mon Aug 07 16:00:36 MDT 2023
+base.0=/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
