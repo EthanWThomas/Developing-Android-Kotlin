@@ -31,6 +31,7 @@ import timber.log.Timber
 
 class MainActivity : AppCompatActivity(), LifecycleObserver {
 
+
     private var revenue = 0
     private var dessertsSold = 0
     private lateinit var dessertTimer: DessertTimer
@@ -152,6 +153,11 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
             R.id.shareMenuButton -> onShare()
         }
         return super.onOptionsItemSelected(item)
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+        Timber.i("onSaveInstanceState Called")
     }
 
     override fun onStart() {
