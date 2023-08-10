@@ -1,0 +1,7 @@
+/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/MainActivity.kt
+/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/GameOverFragment.kt
+/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/AboutFragment.kt
+/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/GameWonFragment.kt
+/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/RulesFragment.kt
+/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/GameFragment.kt
+/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/TitleFragment.kt
