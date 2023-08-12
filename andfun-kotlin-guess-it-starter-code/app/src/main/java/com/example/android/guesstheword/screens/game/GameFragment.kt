@@ -63,15 +63,13 @@ class GameFragment : Fragment() {
         binding.gameViemModel = viewModel
         binding.setLifecycleOwner(this)
 
-        viewModel.currentTime.observe(viewLifecycleOwner, Observer { newTime ->
-            binding.timerText.text = DateUtils.formatElapsedTime(newTime)
-
-        })
-
         viewModel.evenGameFinish.observe(viewLifecycleOwner, Observer { hasFinished ->
             if (hasFinished) {
                 val currentScore = viewModel.score.value ?: 0
                 val action = GameFragmentDirections.actionGameToScore(currentScore)
+                findNavController(this).navigate(action)
+                viewModel.onGameFinishComplete()
+
             }
 
         })
