@@ -17,6 +17,7 @@
 package com.example.android.guesstheword.screens.game
 
 import android.os.Bundle
+import android.text.format.DateUtils
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
@@ -29,8 +30,11 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.ViewModelProviders
 import androidx.navigation.fragment.NavHostFragment.findNavController
+import androidx.navigation.fragment.findNavController
 import com.example.android.guesstheword.R
 import com.example.android.guesstheword.databinding.GameFragmentBinding
+import com.example.android.guesstheword.screens.score.ScoreFragmentDirections
+import com.example.android.guesstheword.screens.score.ScoreViewModelFactory
 
 /**
  * Fragment where the game is played
@@ -53,35 +57,28 @@ class GameFragment : Fragment() {
         )
 
         Log.i("GameFragment", "Called ViewModelProviders.of!")
-        viewModel = ViewModelProviders.of(this).get(GameViewModel::class.java)
+//        viewModel = ViewModelProviders.of(this).get(GameViewModel::class.java)
+        viewModel = ViewModelProvider(this).get(GameViewModel::class.java)
 
+        binding.gameViemModel = viewModel
+        binding.setLifecycleOwner(this)
 
-        binding.correctButton.setOnClickListener {
-            viewModel.onCorrect()
-        }
+        viewModel.currentTime.observe(viewLifecycleOwner, Observer { newTime ->
+            binding.timerText.text = DateUtils.formatElapsedTime(newTime)
 
-        binding.skipButton.setOnClickListener {
-            viewModel.onSkip()
-        }
-
-        viewModel.word.observe(viewLifecycleOwner, Observer { newWord ->
-            binding.wordText.text = newWord
-        })
-
-        viewModel.score.observe(viewLifecycleOwner, Observer { newScore ->
-            binding.scoreText.text = newScore.toString()
         })
 
         viewModel.evenGameFinish.observe(viewLifecycleOwner, Observer { hasFinished ->
             if (hasFinished) {
-                gameFinished()
-                viewModel.onGameFinishComplete()
+                val currentScore = viewModel.score.value ?: 0
+                val action = GameFragmentDirections.actionGameToScore(currentScore)
             }
 
         })
 
         return binding.root
     }
+
     /**
      * Called when the game is finished
      */
