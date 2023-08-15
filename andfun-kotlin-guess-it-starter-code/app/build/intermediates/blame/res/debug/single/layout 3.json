@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-guess-it-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/score_fragment.xml",
+        "source": "/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/score_fragment.xml"
+    },
+    {
+        "merged": "/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-guess-it-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/title_fragment.xml",
+        "source": "/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/title_fragment.xml"
+    },
+    {
+        "merged": "/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-guess-it-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/game_fragment.xml",
+        "source": "/Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/game_fragment.xml"
+    }
+]
