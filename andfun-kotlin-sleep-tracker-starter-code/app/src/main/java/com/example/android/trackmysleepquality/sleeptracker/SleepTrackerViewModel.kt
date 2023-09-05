@@ -17,6 +17,8 @@
 package com.example.android.trackmysleepquality.sleeptracker
 
 import android.app.Application
+import android.service.autofill.Transformation
+import android.view.SurfaceControl.Transaction
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
@@ -51,6 +53,17 @@ class SleepTrackerViewModel(
 
     private var nights = database.getTonight()
 
+//    val nightString = Transformations.map(tonight)
+//
+//    val startButtonVisible = Transformations.map(tonight) {
+//        null == it
+//    }
+//    val stopButtonVisible = Transformations.map(tonight) {
+//        null != it
+//    }
+//    val clearButtonVisible = Transformations.map(nights) {
+//        it?.isNotEmpty()
+//    }
     init {
         initializeTonight()
     }
