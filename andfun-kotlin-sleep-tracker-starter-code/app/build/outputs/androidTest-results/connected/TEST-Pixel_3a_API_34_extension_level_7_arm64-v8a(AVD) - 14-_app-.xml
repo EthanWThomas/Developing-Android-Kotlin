@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.android.trackmysleepquality.SleepDatabaseTest" tests="1" failures="0" errors="0" skipped="0" time="0.21" timestamp="2023-08-25T08:50:54" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="insertAndGetNight" classname="com.example.android.trackmysleepquality.SleepDatabaseTest" time="0.01" />
+</testsuite>

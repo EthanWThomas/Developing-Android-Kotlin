@@ -1,0 +1,369 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/d1ae5d47f611a0430a97f1f6360a005e/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/4554c4308a1dcfab9372bc0e31bf4837/transformed/jetified-databinding-ktx-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/6363137012bce5ba842ffb190ffa96e2/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-ktx:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/5f9940b8889528e471e2fc37815629b7/transformed/jetified-room-ktx-2.5.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.navigation:navigation-common:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/66e903307e9b515878192d7734b2a636/transformed/navigation-common-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/fdb3b7133bb11a8afd19eadaa4e4ad70/transformed/navigation-common-ktx-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/3c552cd4e06241cb77341a693b06f192/transformed/navigation-runtime-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/ef63dff4c33fb7f5b13a73bd4f7b5fca/transformed/navigation-ui-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/763070e4fd64566785cb0c9971b34b64/transformed/navigation-runtime-ktx-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/56c69f0193a9e51dce5858cbb311d0be/transformed/navigation-ui-ktx-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/1e423148d7b7cd76c4dcb881d0aa1777/transformed/navigation-fragment-ktx-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/11d815c351e1dea97436595df83ff8a0/transformed/navigation-fragment-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/ethanthomas/.gradle/caches/transforms-3/74e84df60cc13b908de2f422bfe52958/transformed/material-1.4.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/78ed6306b36333290a0e10d79ade99e6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ethanthomas/.gradle/caches/transforms-3/2fa8eb7417c1d1106d2f0a765aaf0069/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/307755e4a8693b75853354e77e1548b7/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/eaaa7aab3f7c19cab52888ad8ad9cd3e/transformed/fragment-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/c14f338d0a3809e9323f06e77e07a534/transformed/jetified-fragment-ktx-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/75fa2a2ad3525d6006b7e6b839fe38f9/transformed/jetified-activity-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/8f7ff20e63cd2990fb6b27cfbf95f163/transformed/jetified-activity-ktx-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/64b0a103f70947aa8a7b849c1a1ff28c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/3709152161628f9eac6421db6c9242d2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/c5a6b10cdb71fb6bfbc755ba5cb2ba1b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ethanthomas/.gradle/caches/transforms-3/0a37e13d99b431cc22aebd297a033564/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ethanthomas/.gradle/caches/transforms-3/d913fe3247d5854c9e209122d9b03063/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/d982188e85290c48108a443105c92099/transformed/jetified-lifecycle-service-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/6624f77f693006e4e36a24e4860b7d72/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/a1a99dac537bbda841d119420f0ea6a5/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/e04e2a81a946c2dd1261fb2fd9cebd00/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/ethanthomas/.gradle/caches/transforms-3/db2292493c64e87268a3e02397a8e794/transformed/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/39c89114c7fb0bbf2c827217cb0e1be6/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/0fb7a70e76ba16b8bdae55d4382d5b9b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/6db5f0bfa0602c860b41b33726db36fa/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/3504e1c24e779db9e9f1ce24f2db7007/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/da0fab3b891c166e2ad4de2503b473d1/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/cfae1762a4201ea13c4a8a8c18484297/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/0f13926d96da2be6ff971c1546a6f814/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/031f933fc94f2977a26f9443631c78f7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/4644dc3cfcd29d80ca9ec50ee43b820c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/ethanthomas/.gradle/caches/transforms-3/26ec4412b48c0ee3c2d40a99c3f4dd35/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.8.0] /Users/ethanthomas/.gradle/caches/transforms-3/794f6d3ccb581f2ae09e4f84e10143b7/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/066134802498397053f4a96e95963759/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/cccc4a8a3560480cf909059009457519/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/c96f2a04c1b95e7e4130f178538c9caa/transformed/jetified-lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/20fd3e0d30e4481583455372ed61020a/transformed/jetified-lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/840862849bee5693c67615808cd9ec3f/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/9f34e7d4d2b3ab87ec8d851f513c94cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/92934350f21a6b435f40555bc1530ece/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/ethanthomas/.gradle/caches/transforms-3/31ed2e928579c165caa378e7d6df51de/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/ethanthomas/.gradle/caches/transforms-3/b8ec8eb6eb2b2e724e070d0bcc7face3/transformed/sqlite-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/5f15e6f0f422b9ca2de20aaf8b10bb0d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/67ac1d4f9511d3c00d859f6318f2870a/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/d8a6b1d1de31c91f1e6f8433ffc77759/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/0add4bfb61f63142451eab318ed99aa9/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/14f97c0a34307c751d7b043c9c9f5b4f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/0799eb8f508c60ee5fb28ead49f7d169/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/d7feb61e32eaf192e09db27a5044c677/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/3a2d252bce5734f2f8fe687740f61416/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/153e35d1f5004846c1f3c7d4bd282b66/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/5df948cc2ddc68989507430e9ccf47a4/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/ethanthomas/.gradle/caches/transforms-3/74e84df60cc13b908de2f422bfe52958/transformed/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/ethanthomas/.gradle/caches/transforms-3/74e84df60cc13b908de2f422bfe52958/transformed/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ethanthomas/.gradle/caches/transforms-3/2fa8eb7417c1d1106d2f0a765aaf0069/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ethanthomas/.gradle/caches/transforms-3/2fa8eb7417c1d1106d2f0a765aaf0069/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.8.0] /Users/ethanthomas/.gradle/caches/transforms-3/794f6d3ccb581f2ae09e4f84e10143b7/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/ethanthomas/.gradle/caches/transforms-3/794f6d3ccb581f2ae09e4f84e10143b7/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/9f34e7d4d2b3ab87ec8d851f513c94cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/9f34e7d4d2b3ab87ec8d851f513c94cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/d8a6b1d1de31c91f1e6f8433ffc77759/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/d8a6b1d1de31c91f1e6f8433ffc77759/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/ethanthomas/.gradle/caches/transforms-3/794f6d3ccb581f2ae09e4f84e10143b7/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:exported
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:17:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:20:9-22:57
+	android:resource
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:22:13-54
+	android:name
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml:21:13-43
+uses-sdk
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/d1ae5d47f611a0430a97f1f6360a005e/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/d1ae5d47f611a0430a97f1f6360a005e/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/4554c4308a1dcfab9372bc0e31bf4837/transformed/jetified-databinding-ktx-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/4554c4308a1dcfab9372bc0e31bf4837/transformed/jetified-databinding-ktx-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/6363137012bce5ba842ffb190ffa96e2/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/6363137012bce5ba842ffb190ffa96e2/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-ktx:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/5f9940b8889528e471e2fc37815629b7/transformed/jetified-room-ktx-2.5.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/5f9940b8889528e471e2fc37815629b7/transformed/jetified-room-ktx-2.5.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/66e903307e9b515878192d7734b2a636/transformed/navigation-common-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/66e903307e9b515878192d7734b2a636/transformed/navigation-common-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/fdb3b7133bb11a8afd19eadaa4e4ad70/transformed/navigation-common-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/fdb3b7133bb11a8afd19eadaa4e4ad70/transformed/navigation-common-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/3c552cd4e06241cb77341a693b06f192/transformed/navigation-runtime-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/3c552cd4e06241cb77341a693b06f192/transformed/navigation-runtime-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/ef63dff4c33fb7f5b13a73bd4f7b5fca/transformed/navigation-ui-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/ef63dff4c33fb7f5b13a73bd4f7b5fca/transformed/navigation-ui-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/763070e4fd64566785cb0c9971b34b64/transformed/navigation-runtime-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/763070e4fd64566785cb0c9971b34b64/transformed/navigation-runtime-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/56c69f0193a9e51dce5858cbb311d0be/transformed/navigation-ui-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/56c69f0193a9e51dce5858cbb311d0be/transformed/navigation-ui-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/1e423148d7b7cd76c4dcb881d0aa1777/transformed/navigation-fragment-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/1e423148d7b7cd76c4dcb881d0aa1777/transformed/navigation-fragment-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/11d815c351e1dea97436595df83ff8a0/transformed/navigation-fragment-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/11d815c351e1dea97436595df83ff8a0/transformed/navigation-fragment-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/ethanthomas/.gradle/caches/transforms-3/74e84df60cc13b908de2f422bfe52958/transformed/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/ethanthomas/.gradle/caches/transforms-3/74e84df60cc13b908de2f422bfe52958/transformed/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/78ed6306b36333290a0e10d79ade99e6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/78ed6306b36333290a0e10d79ade99e6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ethanthomas/.gradle/caches/transforms-3/2fa8eb7417c1d1106d2f0a765aaf0069/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ethanthomas/.gradle/caches/transforms-3/2fa8eb7417c1d1106d2f0a765aaf0069/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/307755e4a8693b75853354e77e1548b7/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/307755e4a8693b75853354e77e1548b7/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/eaaa7aab3f7c19cab52888ad8ad9cd3e/transformed/fragment-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/eaaa7aab3f7c19cab52888ad8ad9cd3e/transformed/fragment-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/c14f338d0a3809e9323f06e77e07a534/transformed/jetified-fragment-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] /Users/ethanthomas/.gradle/caches/transforms-3/c14f338d0a3809e9323f06e77e07a534/transformed/jetified-fragment-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/75fa2a2ad3525d6006b7e6b839fe38f9/transformed/jetified-activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/75fa2a2ad3525d6006b7e6b839fe38f9/transformed/jetified-activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/8f7ff20e63cd2990fb6b27cfbf95f163/transformed/jetified-activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/8f7ff20e63cd2990fb6b27cfbf95f163/transformed/jetified-activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/64b0a103f70947aa8a7b849c1a1ff28c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/64b0a103f70947aa8a7b849c1a1ff28c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/3709152161628f9eac6421db6c9242d2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/3709152161628f9eac6421db6c9242d2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/c5a6b10cdb71fb6bfbc755ba5cb2ba1b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/c5a6b10cdb71fb6bfbc755ba5cb2ba1b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ethanthomas/.gradle/caches/transforms-3/0a37e13d99b431cc22aebd297a033564/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ethanthomas/.gradle/caches/transforms-3/0a37e13d99b431cc22aebd297a033564/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ethanthomas/.gradle/caches/transforms-3/d913fe3247d5854c9e209122d9b03063/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ethanthomas/.gradle/caches/transforms-3/d913fe3247d5854c9e209122d9b03063/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/d982188e85290c48108a443105c92099/transformed/jetified-lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/d982188e85290c48108a443105c92099/transformed/jetified-lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/6624f77f693006e4e36a24e4860b7d72/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/6624f77f693006e4e36a24e4860b7d72/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/a1a99dac537bbda841d119420f0ea6a5/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/a1a99dac537bbda841d119420f0ea6a5/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/e04e2a81a946c2dd1261fb2fd9cebd00/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/e04e2a81a946c2dd1261fb2fd9cebd00/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/ethanthomas/.gradle/caches/transforms-3/db2292493c64e87268a3e02397a8e794/transformed/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/ethanthomas/.gradle/caches/transforms-3/db2292493c64e87268a3e02397a8e794/transformed/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/39c89114c7fb0bbf2c827217cb0e1be6/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/39c89114c7fb0bbf2c827217cb0e1be6/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/0fb7a70e76ba16b8bdae55d4382d5b9b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/0fb7a70e76ba16b8bdae55d4382d5b9b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/6db5f0bfa0602c860b41b33726db36fa/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/6db5f0bfa0602c860b41b33726db36fa/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/3504e1c24e779db9e9f1ce24f2db7007/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/3504e1c24e779db9e9f1ce24f2db7007/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/da0fab3b891c166e2ad4de2503b473d1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/da0fab3b891c166e2ad4de2503b473d1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/cfae1762a4201ea13c4a8a8c18484297/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/cfae1762a4201ea13c4a8a8c18484297/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/0f13926d96da2be6ff971c1546a6f814/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/0f13926d96da2be6ff971c1546a6f814/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/031f933fc94f2977a26f9443631c78f7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/031f933fc94f2977a26f9443631c78f7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/4644dc3cfcd29d80ca9ec50ee43b820c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/4644dc3cfcd29d80ca9ec50ee43b820c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/ethanthomas/.gradle/caches/transforms-3/26ec4412b48c0ee3c2d40a99c3f4dd35/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/ethanthomas/.gradle/caches/transforms-3/26ec4412b48c0ee3c2d40a99c3f4dd35/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/ethanthomas/.gradle/caches/transforms-3/794f6d3ccb581f2ae09e4f84e10143b7/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/ethanthomas/.gradle/caches/transforms-3/794f6d3ccb581f2ae09e4f84e10143b7/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/066134802498397053f4a96e95963759/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/066134802498397053f4a96e95963759/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/cccc4a8a3560480cf909059009457519/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/cccc4a8a3560480cf909059009457519/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/c96f2a04c1b95e7e4130f178538c9caa/transformed/jetified-lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/c96f2a04c1b95e7e4130f178538c9caa/transformed/jetified-lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/20fd3e0d30e4481583455372ed61020a/transformed/jetified-lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/20fd3e0d30e4481583455372ed61020a/transformed/jetified-lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/840862849bee5693c67615808cd9ec3f/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/840862849bee5693c67615808cd9ec3f/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/9f34e7d4d2b3ab87ec8d851f513c94cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/9f34e7d4d2b3ab87ec8d851f513c94cf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/92934350f21a6b435f40555bc1530ece/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/ethanthomas/.gradle/caches/transforms-3/92934350f21a6b435f40555bc1530ece/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/ethanthomas/.gradle/caches/transforms-3/31ed2e928579c165caa378e7d6df51de/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/ethanthomas/.gradle/caches/transforms-3/31ed2e928579c165caa378e7d6df51de/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/ethanthomas/.gradle/caches/transforms-3/b8ec8eb6eb2b2e724e070d0bcc7face3/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/ethanthomas/.gradle/caches/transforms-3/b8ec8eb6eb2b2e724e070d0bcc7face3/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/5f15e6f0f422b9ca2de20aaf8b10bb0d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/5f15e6f0f422b9ca2de20aaf8b10bb0d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/67ac1d4f9511d3c00d859f6318f2870a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ethanthomas/.gradle/caches/transforms-3/67ac1d4f9511d3c00d859f6318f2870a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/d8a6b1d1de31c91f1e6f8433ffc77759/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/d8a6b1d1de31c91f1e6f8433ffc77759/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/0add4bfb61f63142451eab318ed99aa9/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/0add4bfb61f63142451eab318ed99aa9/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/14f97c0a34307c751d7b043c9c9f5b4f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/14f97c0a34307c751d7b043c9c9f5b4f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/0799eb8f508c60ee5fb28ead49f7d169/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/0799eb8f508c60ee5fb28ead49f7d169/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/d7feb61e32eaf192e09db27a5044c677/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/d7feb61e32eaf192e09db27a5044c677/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/3a2d252bce5734f2f8fe687740f61416/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/3a2d252bce5734f2f8fe687740f61416/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/153e35d1f5004846c1f3c7d4bd282b66/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/153e35d1f5004846c1f3c7d4bd282b66/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/5df948cc2ddc68989507430e9ccf47a4/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ethanthomas/.gradle/caches/transforms-3/5df948cc2ddc68989507430e9ccf47a4/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethanthomas/Desktop/Developer/Android/test/Developing-Android-Kotlin/andfun-kotlin-sleep-tracker-starter-code/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.2] /Users/ethanthomas/.gradle/caches/transforms-3/efa71ff6e44044cb194c167d3ea68213/transformed/room-runtime-2.5.2/AndroidManifest.xml:25:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/d8a6b1d1de31c91f1e6f8433ffc77759/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ethanthomas/.gradle/caches/transforms-3/d8a6b1d1de31c91f1e6f8433ffc77759/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/ethanthomas/.gradle/caches/transforms-3/038f0a7d72784452fee04d873f350021/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/ethanthomas/.gradle/caches/transforms-3/7e6cef147070919b408f8441a2cd79df/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ethanthomas/.gradle/caches/transforms-3/1d2167b0835198af21218aba85f020bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

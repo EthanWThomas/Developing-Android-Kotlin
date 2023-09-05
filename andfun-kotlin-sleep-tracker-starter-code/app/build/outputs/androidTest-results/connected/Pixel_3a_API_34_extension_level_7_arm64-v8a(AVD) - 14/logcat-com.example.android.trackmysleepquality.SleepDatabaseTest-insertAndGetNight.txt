@@ -1,0 +1,2 @@
+08-25 02:50:53.759 29706 29726 I TestRunner: started: insertAndGetNight(com.example.android.trackmysleepquality.SleepDatabaseTest)
+08-25 02:50:53.771 29706 29726 I TestRunner: finished: insertAndGetNight(com.example.android.trackmysleepquality.SleepDatabaseTest)
